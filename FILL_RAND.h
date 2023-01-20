@@ -18,7 +18,7 @@ template<typename Mytype> void FillRand(Mytype arr[], const int length, int minr
 	{
 		swap(minrand, maxrand);
 	}
-	if (minrand == maxrand)
+	if (minrand == maxrand) 
 	{
 		maxrand++;
 	}
